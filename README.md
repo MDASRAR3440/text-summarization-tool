@@ -31,5 +31,5 @@ This tool uses Hugging Face's `pipeline("summarization")` which loads a pre-trai
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-summarization-tool.git
+git clone https://github.com/MDASRAR3440/text-summarization-tool.git
 cd text-summarization-tool
